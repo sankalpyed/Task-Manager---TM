@@ -1,7 +1,7 @@
 
 # About Task Manager-TM
 
-Task Manager-TM is a Web Application for time management. Helps to keep a track of the task such as:
+Task Manager-TM is a Web Application for time management. Helps to keep a track of the daily task such as:
 
 - Create new task
 - Edit existing task
